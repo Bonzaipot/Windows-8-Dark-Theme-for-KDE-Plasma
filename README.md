@@ -1,6 +1,7 @@
 # Windows 8 Dark Theme for KDE Plasma
 
 A sleek, dark theme **inspired** by the aesthetic of **Windows 8**, crafted for **KDE Plasma 6.5.4**.
+<img width="1620" height="913" alt="Desktop_config_3" src="https://github.com/user-attachments/assets/8963aa18-e47d-45f7-a22e-d36ceb5cfbc3" />
 
 ---
 
