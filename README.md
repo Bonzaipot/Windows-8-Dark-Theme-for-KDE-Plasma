@@ -69,12 +69,16 @@ A sleek, dark theme **inspired** by the aesthetic of **Windows 8**, crafted for 
 
 ## Extras
 - Profile Picture: `User_Windows_8.png`
-- Desktop Layout: See the `Desktop_configuration_example` folder for panel setup ideas.
-- Custom Accent Colors:  
+- Desktop Layout: See the images below to see how I set up my panels.
+- Custom Accent Colors *Requires manual theming knowledge.*:  
   Windows 8 allowed accent color customization. You can adjust:
   - Accent color (default: Windows signature blue)
   - Selected window color (default: creamy-yellow)  
-  *Requires manual theming knowledge.*
+
+<img width="1620" height="913" alt="Desktop_config_3" src="https://github.com/user-attachments/assets/8963aa18-e47d-45f7-a22e-d36ceb5cfbc3" />
+<img width="1620" height="913" alt="Desktop_config_1" src="https://github.com/user-attachments/assets/153de69b-6ca0-4735-bfc5-43d663cc73bb" />
+<img width="1620" height="913" alt="Desktop_config_4" src="https://github.com/user-attachments/assets/d58445b3-5da3-44c7-ad53-f1be434fd1ad" />
+<img width="1620" height="913" alt="Desktop_config_2" src="https://github.com/user-attachments/assets/57668b5d-b58d-4fdf-be58-8de279c42f0c" />
 
 ---
 
