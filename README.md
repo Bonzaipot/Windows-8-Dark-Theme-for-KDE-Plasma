@@ -7,7 +7,7 @@ A sleek, dark theme **inspired** by the aesthetic of **Windows 8**, crafted for 
 ---
 
 ## Requirements
-- **KDE Plasma 6.5.4** (This theme was created in this version, will probably with future versions. Although I think Klassy requires Plasma 6, but I'm not sure)
+- **KDE Plasma 6.5.4** (This theme was created in this version, will probably work with future versions. Although I think Klassy requires Plasma 6, but I'm not sure)
 - **Klassy** window decoration – [Download here](https://github.com/paulmcauley/klassy)
 
 ---
